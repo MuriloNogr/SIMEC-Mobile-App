@@ -5,6 +5,15 @@
 
 **SIMEC Mobile** é um aplicativo Android desenvolvido em Kotlin e Jetpack Compose que visa o gerenciamento de condomínios e o monitoramento de consumo de energia. O aplicativo se integra com Firebase para autenticação e utiliza Retrofit para comunicação com APIs RESTful.
 
+---
+
+## Links
+
+
+[Link para o vídeo de apresentação](https://www.youtube.com/watch?v=x0PZ2OoCa7k)
+
+---
+
 ## 🚀 Recursos
 
 - **Gerenciamento de Condomínios**:
