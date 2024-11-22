@@ -1,3 +1,6 @@
+![LogoSimec](https://github.com/user-attachments/assets/40e08500-f909-496c-85f0-8b6e7b8ed9a4)
+
+
 # 🌱 SIMEC Mobile App
 
 **SIMEC Mobile** é um aplicativo Android desenvolvido em Kotlin e Jetpack Compose que visa o gerenciamento de condomínios e o monitoramento de consumo de energia. O aplicativo se integra com Firebase para autenticação e utiliza Retrofit para comunicação com APIs RESTful.
