@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "858411166219",
+    "project_id": "simec-4e558",
+    "storage_bucket": "simec-4e558.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858411166219:android:6f051c71991638622b350e",
+        "android_client_info": {
+          "package_name": "com.examplo.simec"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmrWt0q8qY7GwT8SfXyK3gsAWGTMnVPas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
